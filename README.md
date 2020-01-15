@@ -1,2 +1,2 @@
-# MoodBot
-Sample bot built using Rasa to showcase the use of [Entity Extractor](https://github.com/JiteshGaikwad/EntityExtractor).
+# MSRecognizer
+Custom Extractor for Entities in Rasa using MS Recognizers-Text
